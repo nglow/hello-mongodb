@@ -1,4 +1,4 @@
-# Hello MongoDB with Nest.js
+# Nest.js with mongoDB
 
 ## Reference
 * https://github.com/academind/nestjs-introduction
