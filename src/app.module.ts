@@ -8,7 +8,7 @@ import { ProductsModule } from './products/products.module';
 @Module({
   imports: [
     MongooseModule.forRoot(
-      "mongodb+srv://root:root@cluster0.3ibwv.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+      'mongodb+srv://root:root@cluster0.3ibwv.mongodb.net/myFirstDatabase?retryWrites=true&w=majority',
     ),
     ProductsModule,
   ],
